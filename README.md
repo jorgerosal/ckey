@@ -1,4 +1,4 @@
-## ckey - A dotenv plugin.
+## ckey - a dotenv plugin.
 Simple and easy way to access dotenv file secrets and use it anywhere in your sub-directory.
 
 ### ▶️ Installation
@@ -12,15 +12,17 @@ npm install ckey
   - .env file from main directory.
 ```
 # dotenv sample content
-USER=yortrosal
+USER=yortrosal@gmail.com
 PASSWORD=iampassword123
+
+API_KEY=1234567890
 ```
 
   - some js file from sub-directory
 ```js
 const ck = require('ckey');
 
-const userName = ck.USER; // yortrosal
+const userName = ck.USER; // yortrosal@gmail.com
 const password = ck.PASSWORD //iampassword123
 ```
 
