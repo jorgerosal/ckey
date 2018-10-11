@@ -8,6 +8,7 @@ npm install ckey
 ```
 
 ### 📝 Usage
+Create a .env file in the root directory of your project. Add environment-specific variables on new lines in the form of NAME=VALUE. For example:
 
   - .env file from main directory.
 ```
