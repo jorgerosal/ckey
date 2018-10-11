@@ -8,8 +8,8 @@
     "start": "node app.js"
   },
   "repository": {
-   "type": "git",
-   "url": "https://github.com/yortrosal/cKey.git"
+    "type": "git",
+    "url": "https://github.com/yortrosal/cKey.git"
   },
   "keywords": [
     "dotenv plugin",
