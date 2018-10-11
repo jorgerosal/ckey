@@ -4,7 +4,7 @@ Simple and easy way to access dotenv file secrets and use it anywhere in your su
 ### ▶️ Installation
 
 ```shell
-npm install cKey
+npm install ckey
 ```
 
 ### 📝 Usage
