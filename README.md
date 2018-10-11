@@ -1,4 +1,4 @@
-# cKey - A dotenv plugin.
+## ckey - A dotenv plugin.
 Simple and easy way to access dotenv file secrets and use it anywhere in your sub-directory.
 
 ### ▶️ Installation
