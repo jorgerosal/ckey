@@ -23,8 +23,8 @@ API_KEY=1234567890
 const ck = require('ckey');
 
 const userName = ck.USER;     // yortrosal@gmail.com
-const password = ck.PASSWORD;  // iampassword123
-const apiKey   = ck.API_KEY;     // 1234567890
+const password = ck.PASSWORD; // iampassword123
+const apiKey   = ck.API_KEY;  // 1234567890
 ```
 
 ### 🎩 Authors
