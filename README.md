@@ -18,7 +18,7 @@ PASSWORD=iampassword123
 
   - some js file from sub-directory
 ```js
-const ck = require('cKey');
+const ck = require('ckey');
 
 const userName = ck.USER; // yortrosal
 const password = ck.PASSWORD //iampassword123
