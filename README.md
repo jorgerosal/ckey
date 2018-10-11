@@ -12,6 +12,7 @@ npm install ckey
   - .env file from main directory.
 ```
 # dotenv sample content
+
 USER=yortrosal@gmail.com
 PASSWORD=iampassword123
 
