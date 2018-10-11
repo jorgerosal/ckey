@@ -1,0 +1,24 @@
+{
+  "name": "cKey",
+  "version": "1.0.0",
+  "description": "Simple and easy way to access dotenv file secrets and use it anywhere in your sub-directory.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+   "type": "git",
+   "url": "https://github.com/yortrosal/cKey.git"
+  },
+  "keywords": [
+    "dotenv plugin",
+    "environment variable access",
+    "access dotenv in sub-directory"
+  ],
+  "author": "Jorge Rosal",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.1.0"
+  }
+}
