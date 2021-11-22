@@ -14,7 +14,7 @@ Create a .env file in the root directory of your project. Add environment-specif
 ```
 # dotenv sample content
 
-USER=yortrosal@gmail.com
+USER=your_email@gmail.com
 PASSWORD=iampassword123
 
 API_KEY=1234567890
